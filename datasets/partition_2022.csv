@@ -1,0 +1,6 @@
+EmpID,Year,Month,Day,Status
+100,2022,1,10,Active
+101,2022,1,11,INActive
+102,2022,2,12,Active
+103,2022,2,13,INActive
+104,2022,3,14,Active
